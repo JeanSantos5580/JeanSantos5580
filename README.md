@@ -15,9 +15,6 @@ Olá, sou o Jean!<br>Atualmente sou Desenvolvedor Front-End e em constante apren
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JeanSantos5580&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JeanSantos5580&icon=5&color=12)](https://visitcount.itsvg.in)
 
